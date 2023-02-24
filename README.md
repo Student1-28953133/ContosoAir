@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/Student1-28953133/3c851348-2135-4dc1-b56b-da20bcf544c8/7a6b556d-03b0-458b-814f-efe51cce8f7c/_apis/work/boardbadge/682d60ba-03bf-4fbd-9ad7-928aad49127c)](https://dev.azure.com/Student1-28953133/3c851348-2135-4dc1-b56b-da20bcf544c8/_boards/board/t/7a6b556d-03b0-458b-814f-efe51cce8f7c/Microsoft.RequirementCategory)
 [![Build Status](https://dev.azure.com/Student1-28953133/NHC/_apis/build/status/Student1-28953133.ContosoAir?branchName=master)](https://dev.azure.com/Student1-28953133/NHC/_build/latest?definitionId=2&branchName=master)
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
